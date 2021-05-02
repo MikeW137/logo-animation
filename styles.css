@@ -1,0 +1,24 @@
+@keyframes fade-red {
+0%, {fill:white}
+100% {fill:#BF203F}
+}
+
+@keyframes fade-lite-red {
+  0%, {fill:white}
+  100% {fill:#FF2A54}
+}
+
+@keyframes remove-stroke-red {
+  0%, {stroke:black}
+  100% {stroke:#BF203F}
+}
+
+@keyframes remove-stroke-lite-red {
+  0%, {stroke:black}
+  100% {stroke:#FF2A54}
+}
+
+@keyframes remove-stroke {
+  0%, {stroke:black}
+  100% {stroke:white}
+}
